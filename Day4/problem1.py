@@ -58,7 +58,6 @@ def main_2():
     return overlaps
 
 
-#print(main())
-
+print(main())
 
 print(main_2())
