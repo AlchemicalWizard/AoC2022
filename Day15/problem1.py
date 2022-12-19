@@ -1,8 +1,3 @@
-global_sensors = []
-global_beacons = []
-global_x_max = 0
-
-
 def read_data(test, file):
     if test:
         path = file
